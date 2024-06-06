@@ -1,7 +1,7 @@
 name:  Action Item
 description: Action Item submission
 title: "[AI]"
-labels: ["Action Item"]
+labels: ["action item"]
 projects: ["TOSS"]
 assignees: 
 - sk16-dev
