@@ -2,7 +2,7 @@ name:  Documentation
 description: Issue associated with Documentation
 title: "[Documentation]"
 labels: ["documentation"]
-projects: ["SCER"]
+projects: ["TOSS"]
 assignees: 
 - sk16-dev
 - PindyBhullar
