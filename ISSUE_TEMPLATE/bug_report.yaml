@@ -2,7 +2,7 @@ name: Bug report
 description: Create a report to help us improve
 title: "[Bug report]"
 labels: ["bug"]
-projects: ["SCER"]
+projects: ["TOSS"]
 assignees: 
   - sk16-dev
   - PindyBhullar
