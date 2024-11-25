@@ -6,7 +6,7 @@
    - [Assumptions Document.docx](https://github.com/Green-Software-Foundation/ouse/files/14040068/Assumptions.Document.docx)
    - Terms of Reference.docx
 
-## Transform the Organizations for Sustainable Software (TOSS)
+## Transforming Organisations for Sustainable Software (TOSS)
 
 ### Back Ground
 The Green Software Foundation has been building the methods, tools, standards, and patterns to help both developers and operational engineers embed green software practices. To first use these tools and embed them in organisations, we require a framework that provides changemakers in organisations with an approach to adopting, using, and reducing carbon emissions from running software applications. 
@@ -43,10 +43,10 @@ The solution would describe a framework incorporating a method that is focused o
 **ToC:** By the end of 2024, this initiative will enhance the adoption of various GSF tools and methodologies.
 
 ### Timelines
-- [ ] January 2024 – Agree on the project scope with GSF.
-- [ ] February 2024 – Define the key terms,  e.g., how we classify technology-based projects.
-- [ ] March to August 2024 – Development of the framework.
-- [ ] September to October – Solicit feedback and update changes.
+- [x] January 2024 – Agree on the project scope with GSF.
+- [x] February 2024 – Define the key terms,  e.g., how we classify technology-based projects.
+- [x] March to August 2024 – Development of the framework.
+- [x] September to October – Solicit feedback and update changes.
 - [ ] October 2024 to January 2025 – Framework development process.
 
 
